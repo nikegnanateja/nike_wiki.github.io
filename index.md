@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Recommended Python Libraries for SPANLAB
 ---
 
