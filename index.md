@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Python libraries
+title: SPANLAB
 ---
-
 
 
 # Recommended Python Libraries - SPANLAB
