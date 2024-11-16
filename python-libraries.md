@@ -19,7 +19,7 @@ Here are the recommended Python libraries for various applications in the SPANLA
 
 ## Visualization
 
-1. [Seaborn](https://www.notion.so/Recommended-Python-Libraries-07e989242dec447590c1cdba139c97e1?pvs=21) for plotting spreadsheet for different descriptive plots
+1. [Seaborn](https://seaborn.pydata.org/) for plotting spreadsheet for different descriptive plots
 2. [Colorbrewer](https://github.com/dsc/colorbrewer-python) for colormaps
 
 ## Data loading etc
