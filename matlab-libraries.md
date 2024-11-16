@@ -2,7 +2,7 @@
 layout: default
 title: Matlab libraries
 ---
-| [Home](/) | [Matlab Libraries recommended](matlab-libraries.md) | [Python Libraries recommended](matlab-libraries.md)
+| [Home](/) | [Matlab Libraries recommended](matlab-libraries.md) | [Python Libraries recommended](python-libraries.md)
 
 # Recommended Matlab toolboxes
 
