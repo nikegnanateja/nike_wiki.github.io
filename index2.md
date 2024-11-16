@@ -1,3 +1,8 @@
+---
+layout: page
+title: Your Page Title
+---
+
 # Recommended Matlab toolboxes
 
 Date: November 16, 2024 2:01 AM
